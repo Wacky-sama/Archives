@@ -1,0 +1,6 @@
+C:\Users\tabug\Documents\SharpDevelop Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\tabug\Documents\SharpDevelop Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\tabug\Documents\SharpDevelop Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\tabug\Documents\SharpDevelop Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\tabug\Documents\SharpDevelop Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\tabug\Documents\SharpDevelop Projects\Assignment\Assignment\obj\Debug\Assignment.pdb

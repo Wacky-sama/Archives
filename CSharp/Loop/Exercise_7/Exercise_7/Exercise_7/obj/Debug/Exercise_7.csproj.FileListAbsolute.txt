@@ -1,0 +1,12 @@
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe.config
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.pdb
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.exe
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.pdb
+C:\Users\tabug\.omnisharp\Loop\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.csprojResolveAssemblyReference.cache
+C:\Users\tabug\.omnisharp\Loop\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.exe
+C:\Users\tabug\.omnisharp\Loop\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe.config
+C:\Users\tabug\.omnisharp\Loop\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe
+C:\Users\tabug\.omnisharp\Loop\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.pdb
+C:\Users\tabug\.omnisharp\Loop\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.pdb

@@ -1,0 +1,12 @@
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_3\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_3\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe.config
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_3\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_3\Exercise_3\Exercise_3\bin\Debug\Exercise_3.pdb
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_3\Exercise_3\Exercise_3\obj\Debug\Exercise_3.exe
+C:\Users\Home\Documents\C# Practice\Loop\Exercise_3\Exercise_3\Exercise_3\obj\Debug\Exercise_3.pdb
+C:\Users\tabug\.omnisharp\Loop\Exercise_3\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe.config
+C:\Users\tabug\.omnisharp\Loop\Exercise_3\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe
+C:\Users\tabug\.omnisharp\Loop\Exercise_3\Exercise_3\Exercise_3\bin\Debug\Exercise_3.pdb
+C:\Users\tabug\.omnisharp\Loop\Exercise_3\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csprojResolveAssemblyReference.cache
+C:\Users\tabug\.omnisharp\Loop\Exercise_3\Exercise_3\Exercise_3\obj\Debug\Exercise_3.exe
+C:\Users\tabug\.omnisharp\Loop\Exercise_3\Exercise_3\Exercise_3\obj\Debug\Exercise_3.pdb

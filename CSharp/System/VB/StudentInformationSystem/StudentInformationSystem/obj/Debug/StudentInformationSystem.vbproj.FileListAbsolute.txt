@@ -1,0 +1,6 @@
+C:\Users\tabug\Documents\SharpDevelop Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\tabug\Documents\SharpDevelop Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\tabug\Documents\SharpDevelop Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\tabug\Documents\SharpDevelop Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\tabug\Documents\SharpDevelop Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\tabug\Documents\SharpDevelop Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb

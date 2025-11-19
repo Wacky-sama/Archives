@@ -1,0 +1,36 @@
+﻿/*
+ * Created by Wacky.
+ */
+using System;
+
+namespace Exercise_7
+{
+	class Program
+	{
+		public static void Main(string[] args)
+		{
+			int k, t, m;
+			
+			Console.Write("\n\n");
+			Console.Write("Display the multiplication table vertically from 1 to n:\n");
+			Console.Write("----------------------------------------------------------");
+			Console.Write("\n\n");
+			
+			Console.Write("Input upto the table number starting from 1 :");
+			m = Convert.ToInt32(Console.ReadLine());
+			for (t=1;t<=10;t++)
+			{
+				for (k=1;k<=m;k++)
+				{
+					if (k<=m-1)
+						Console.Write("{0}x{1} = {2},",k,t,k*t);
+				else
+					Console.Write("{0}x{1} = {2}", k, t, k*t);
+				
+				}
+				Console.Write("\n\n");
+				Console.ReadKey(true);
+			}
+		}
+	}
+}
