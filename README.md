@@ -13,25 +13,6 @@ This repo exists as a long-term storage space for codebases and projects I’m n
 
 It’s basically the attic, but without the dust.
 
-## Structure
-
-Each archived project lives in its own folder:
-
-```
-Archives/
-  ├── CSharp/        # Imported from its own repo, full history preserved
-  ├── Java/
-  └── ...
-```
-
-## How Projects Are Added
-
-Projects are imported with full Git history when possible, so the timeline of commits stays intact. This makes it easier to look back at how each project evolved.
-
-## Why Keep an Archives Repo?
-
-Because progress matters. Every file here represents a phase in my learning journey. Instead of deleting old work or letting it rot in abandoned repos, everything gets consolidated into one well-organized home.
-
 ## Cloning
 
 ```
